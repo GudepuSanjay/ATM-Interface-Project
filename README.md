@@ -18,8 +18,6 @@ This project simulates a simple ATM interface using Java. The system allows a us
    ```bash
    javac ATMInterface.java
    java ATMInterface
-
-
 ## Example
 Enter username: user1
 Enter PIN: 1234
