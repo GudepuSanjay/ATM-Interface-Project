@@ -17,7 +17,8 @@ This project simulates a simple ATM interface using Java. The system allows a us
 1. Compile the Java file:
    ```bash
    javac ATMInterface.java
-java ATMInterface
+   java ATMInterface
+
 
 ## Example
 Enter username: user1
